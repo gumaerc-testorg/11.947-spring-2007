@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-947-history-and-theory-of-historic-preservation-spring-2007/e139ff25f0ed81fba44e229bc1b4c9eb_lect9.pdf
+file: /media/courses/11-947-history-and-theory-of-historic-preservation-spring-2007/e139ff25f0ed81fba44e229bc1b4c9eb_lect9.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: lect9.pdf
 uid: e139ff25-f0ed-81fb-a44e-229bc1b4c9eb
