@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes about the politics of significance: the President''s House
   on Independence Mall, Philadelphia.'
-file: /media/courses/11-947-history-and-theory-of-historic-preservation-spring-2007/a4936431759b6e483eaeb44cbffe8953_lect4.pdf
+file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/a4936431759b6e483eaeb44cbffe8953_lect4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lect4.pdf
 uid: a4936431-759b-6e48-3eae-b44cbffe8953
 ---
+Lecture notes about the politics of significance: the President's House on Independence Mall, Philadelphia.
+
