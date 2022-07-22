@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the course assignments, including
+  short papers and the final paper or project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e71a2821-193c-1b23-0c26-c87ff28fc3b9
 ---
