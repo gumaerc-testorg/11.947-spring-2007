@@ -6,6 +6,7 @@ file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect10.pdf
 uid: 7f21d55b-6a0a-3d2f-fe9e-f439ba500cf8
 ---
 Lecture notes about preserving modern architecture: the case of Aalto in Cambridge.
-

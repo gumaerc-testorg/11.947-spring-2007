@@ -6,6 +6,7 @@ file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/62
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect2.pdf
 uid: 6253d9ae-8ec9-a47f-7669-b98c2a7380cc
 ---
 Lecture notes about the roots of historic preservation in the United States.
-
