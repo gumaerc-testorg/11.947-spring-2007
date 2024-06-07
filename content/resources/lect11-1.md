@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes about contemporary preservation debates: the World Trade
   Center and New Orleans after Katrina.'
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/fa9d8be48440bd77f15937b6ab79426f_lect11.pdf
+file_size: 24036
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

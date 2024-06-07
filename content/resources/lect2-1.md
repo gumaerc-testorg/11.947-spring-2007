@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about the roots of historic preservation in the United
   States.
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/6253d9ae8ec9a47f7669b98c2a7380cc_lect2.pdf
+file_size: 23742
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
