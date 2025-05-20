@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes about preserving modern architecture: the case of Aalto
   in Cambridge.'
-file: /ol-ocw-studio-app/courses/11-947-history-and-theory-of-historic-preservation-spring-2007/7f21d55b6a0a3d2ffe9ef439ba500cf8_lect10.pdf
+file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/7f21d55b6a0a3d2ffe9ef439ba500cf8_lect10.pdf
 file_size: 12948
 file_type: application/pdf
 learning_resource_types:
