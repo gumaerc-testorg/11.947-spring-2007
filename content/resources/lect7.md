@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/4be4955fede712500e03bd4109ee5dec_lect7.pdf
+file: /ol-ocw-studio-app/courses/11-947-history-and-theory-of-historic-preservation-spring-2007/4be4955fede712500e03bd4109ee5dec_lect7.pdf
 file_size: 21674
 file_type: application/pdf
 learning_resource_types: []
